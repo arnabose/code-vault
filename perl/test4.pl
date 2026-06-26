@@ -1,0 +1,10 @@
+$r = 1;
+$n = "Hello";
+$t = 55.125;
+$m = 0167;
+$p = 0xabc;
+print "r=$r\n";
+print "n=$n\n";
+print "t=$t\n";
+print "m=$m\n";
+print "p=$p\n";
